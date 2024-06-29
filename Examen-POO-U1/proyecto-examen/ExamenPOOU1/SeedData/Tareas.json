@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "b40e8bad-a65c-4f12-9bb7-d29e7ece4696",
+    "Description": "Regar las plantas",
+    "Estado": "Hecho",
+    "Prioridad":  "Alta"
+  },
+
+  {
+    "Id": "b40e8bad-a65c-4f12-9bb7-d29e7ece4696",
+    "Description": "Pasear al perro bruno",
+    "Estado": "Pendiente",
+    "Prioridad": "Media"
+  },
+
+  {
+    "Id": "b40e8bad-a65c-4f12-9bb7-d29e7ece4696",
+    "Description": "Regar las plantas",
+    "Estado": "Hecho",
+    "Prioridad": "Baja"
+  }
+]

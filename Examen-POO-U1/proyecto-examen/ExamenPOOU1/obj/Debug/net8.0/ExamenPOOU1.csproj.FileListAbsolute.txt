@@ -1,0 +1,8 @@
+C:\Users\Cristhian Guevara\Documents\Examen-POO-U1\proyecto-examen\ExamenPOOU1\obj\Debug\net8.0\ExamenPOOU1.csproj.AssemblyReference.cache
+C:\Users\Cristhian Guevara\Documents\Examen-POO-U1\proyecto-examen\ExamenPOOU1\obj\Debug\net8.0\ExamenPOOU1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian Guevara\Documents\Examen-POO-U1\proyecto-examen\ExamenPOOU1\obj\Debug\net8.0\ExamenPOOU1.AssemblyInfoInputs.cache
+C:\Users\Cristhian Guevara\Documents\Examen-POO-U1\proyecto-examen\ExamenPOOU1\obj\Debug\net8.0\ExamenPOOU1.AssemblyInfo.cs
+C:\Users\Cristhian Guevara\Documents\Examen-POO-U1\proyecto-examen\ExamenPOOU1\obj\Debug\net8.0\ExamenPOOU1.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Guevara\Documents\Examen-POO-U1\proyecto-examen\ExamenPOOU1\obj\Debug\net8.0\ExamenPOOU1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cristhian Guevara\Documents\Examen-POO-U1\proyecto-examen\ExamenPOOU1\obj\Debug\net8.0\ExamenPOOU1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cristhian Guevara\Documents\Examen-POO-U1\proyecto-examen\ExamenPOOU1\obj\Debug\net8.0\ExamenPOOU1.sourcelink.json
